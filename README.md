@@ -6,9 +6,9 @@
 I'm Samuel Krieger Bonini.
 I'm a Developer Trainee :computer:
 
-- :rocket:   I’m currently working at **CompassoUol**
-- :purple_heart:   Java
-- :computer:   Java,Spring,Docker,MYSQL
+- :rocket:   I’m currently working at **TimWeTech**
+- :purple_heart:   Java,AWS.
+- :computer:   Java,Spring,AWS.
 - 💬   Ask me about: tech, movies, tech, music, tech, life...
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelkrieger" alt="samuelkrieger" /></a> </p>
