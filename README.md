@@ -6,7 +6,7 @@
 I'm Samuel Krieger Bonini.
 I'm a Developer Trainee :computer:
 
-- :rocket:   I’m currently working at **TimWeTech**
+- :rocket:   I’m currently working at **Compass.uol**
 - :purple_heart:   Java,AWS.
 - :computer:   Java,Spring,AWS.
 - 💬   Ask me about: tech, movies, tech, music, tech, life...
